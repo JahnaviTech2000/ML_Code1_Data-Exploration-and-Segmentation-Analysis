@@ -1,1 +1,1 @@
-the analysis is done from macdonalds dataset
+the analysis is done from mcdonalds dataset
